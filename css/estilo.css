@@ -1,0 +1,19 @@
+.cabecalho{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 250;
+    font-size: 23px;
+    background-color: aqua;
+}
+.corpo{
+    font-family: inherit;
+    font-weight: 200;
+    font-size: 20px;
+    background-color: aliceblue;
+}
+.rodape{
+
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 250;
+    font-size: 23px;
+    background-color: aqua;
+}
